@@ -17,6 +17,10 @@ Check out the repository into one of the following directories, and ensure the d
 
   ~/Library/Application Support/Coda/Modes
   ~/Library/Application Support/SubEthaEdit/Modes
+  
+Configuration
+-------------
+The colors chosen for this mode are meant for a dark background, I'm using some colors from [Specials Board](http://joebergantine.com/werkstatt/seestyle)
 
 Author
 ------
