@@ -4,5 +4,6 @@
   <recognition>
     <extension>feature</extension>                   <!-- Add file extensions -->
     <extension casesensitive="yes">C</extension> <!-- Add case sensitive file extensions -->
+    <filename>untitled.feature</filename>                <!-- Add filenames -->
   </recognition>
 </settings>
