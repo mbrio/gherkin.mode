@@ -24,4 +24,4 @@ The colors chosen for this mode are meant for a dark background, I'm using some 
 
 Author
 ------
-Copyright © 2011 [Michael Diolosa](http://github.com/mbrio)
+Copyright &copy; 2011 [Michael Diolosa](http://github.com/mbrio)

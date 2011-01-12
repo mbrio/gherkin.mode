@@ -6,7 +6,7 @@
     <charsintokens><![CDATA[_0987654321abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@:|]]></charsintokens> 
   </head>
   <states>
-    <default id="Base" color="#bebebe">
+    <default id="Base" color="#bebebe" background-color="#2b2b2b">
       <keywords id="Keywords" color="#e37498" casesensitive="no">
 				<regex>^\W*(Feature:)</regex>
 				<regex>^\W*(Background:)</regex>
