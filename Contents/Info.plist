@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>SEEMode.Cucumber Syntax</string> <!-- Change bundle identifier. Must start with "SEEMode." -->
+	<string>SEEMode.Gherkin Syntax</string> <!-- Change bundle identifier. Must start with "SEEMode." -->
 	<key>CFBundleName</key>
-	<string>Cucumber</string> <!-- Change bundle name. -->
+	<string>Gherkin</string> <!-- Change bundle name. -->
   <key>NSHumanReadableCopyright</key>
   <string>© 2011 Michael Diolosa http://github.com/mbrio</string>
   <key>CFBundleShortVersionString</key>

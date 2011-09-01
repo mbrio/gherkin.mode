@@ -33,7 +33,7 @@ Feature: Multiple site support
     Given I am testing keywords
       And I am using Coda
       But I am not drinking coffee
-    When I look at a Cucumber file
+    When I look at a Gherkin file
       And I am testing And
       But I am also testing But
     Then the And and But keywords should match the parent color
