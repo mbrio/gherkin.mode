@@ -1,19 +1,19 @@
-[Cucumber SubEthaEdit/Coda Mode](http://github.com/mbrio/cucumber.mode)
+[Gherkin SubEthaEdit/Coda Mode](http://github.com/mbrio/gherkin.mode)
 ===================================================
 
 Introduction
 ------------
-The Cucumber SubEthaEdit/Coda Mode enables syntax highlighting for the Gherkin DSL.
+The Gherkin SubEthaEdit/Coda Mode enables syntax highlighting for the Gherkin DSL.
 
 Repository
 ------------
-A read-only GIT repository of cucumber.mode resides at:
+A read-only GIT repository of gherkin.mode resides at:
   
-  git://github.com/mbrio/cucumber.mode.git
+  git://github.com/mbrio/gherkin.mode.git
 
 Installation
 ------------
-Check out the repository into one of the following directories, and ensure the directory name is cucumber.mode:
+Check out the repository into one of the following directories, and ensure the directory name is gherkin.mode:
 
   ~/Library/Application Support/Coda/Modes
   ~/Library/Application Support/SubEthaEdit/Modes
